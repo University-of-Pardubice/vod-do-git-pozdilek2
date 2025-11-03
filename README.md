@@ -3,8 +3,9 @@
 Dokumentace k projektu z předměru softwarové inženýrství
 
 ## Tabulka
-| Id |                   Požadavek                   |
-|----|:---------------------------------------------:|
-| 1  |Na projektu se podílí všichni studenti.    |
-| 2  |Dokumentace nebude obsahovat pravopisné chyby |
-| 3  |Poslední cvičení bude obhajoba projektu    |
+| Id |                      Požadavek                      |
+|----|:---------------------------------------------------:|
+| 1  |       Na projektu se podílí všichni studenti.       |
+| 2  |    Dokumentace nebude obsahovat pravopisné chyby    |
+| 3  |       Poslední cvičení bude obhajoba projektu       |
+| 4  |Všechny diagramy budou vloženy do jednoho dokumentu. |
