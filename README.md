@@ -1,5 +1,7 @@
 # Software engineering
 
+Dokumentace k projektu z předměru softwarové inženýrství
+
 ## Tabulka
 | Id       |                Požadavek                 |
 |----------|:----------------------------------------:|
